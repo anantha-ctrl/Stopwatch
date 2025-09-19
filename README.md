@@ -50,8 +50,9 @@ stopwatch-app/
 ## 📸 Screenshots
 
 ### Stopwatch UI
-![Stopwatch](https://res.cloudinary.com/de1tywvqm/image/upload/v1758264785/Screenshot_2025-09-19_122146_in2bxc.png)
+![Stopwatch Screenshot](https://res.cloudinary.com/de1tywvqm/image/upload/v1758264785/Screenshot_2025-09-19_122146_in2bxc.png)
 
+---
 
 ## 📥 Download Feature
 
@@ -91,7 +92,6 @@ Lap 3: 00:00:20.789
 
 ## 👨‍💻 Author
 
-Developed with ❤️ by **\[ Anantha Kumar G]**
+Developed with ❤️ by **\Anantha Kumar G**
 
-Do you want me to also **add a preview GIF/screenshot block** in this README so it looks more attractive on GitHub?
 ```
